@@ -1,3 +1,4 @@
 # EasePi Ars2 trouble shooting
 ## 仅作收集，不提供技术支持
-![pic_banner_2x 0461d68b](https://user-images.githubusercontent.com/49484576/136910529-f5fdb25c-3eca-4bfd-b5d8-33b21843b20e.png)
+
+![part2_img 5d42f8f2](https://user-images.githubusercontent.com/49484576/136910910-426572ae-ce00-446c-8a0c-9d3e5ead2932.png)
