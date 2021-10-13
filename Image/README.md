@@ -5,7 +5,7 @@ https://fw.koolcenter.com/binary/ars2/
 2. 默认关闭SFE
 3. 修复iStore配置文件异常时无法打开的问题
 # xiangfeidexiaohuo / ARS2-Firmware
-https://github.com/xiangfeidexiaohuo/ARS2-Firmware/releases/tag/ARS2-211013
+https://github.com/xiangfeidexiaohuo/ARS2-Firmware/releases
 ## ARS2-211013
 ARS2第三方固件
 管理网关：192.168.2.100 无密码
