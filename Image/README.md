@@ -1,5 +1,5 @@
 # EasePi Ars2 官方固件下载地址
-https://fw.koolcenter.com/binary/ars2/
+https://fw.koolcenter.com/iStoreOS/ars2/
 ## 19.07.8 r11887
 发布日期 2022-02-18
 
